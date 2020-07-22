@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Why I am striving to become a software engineer"
-date:       2020-07-22 19:11:04 +0000
+title:      "Why I Chose Software Engineering"
+date:       2020-07-22 15:11:05 -0400
 permalink:  why_i_am_striving_to_become_a_software_engineer
 ---
 
